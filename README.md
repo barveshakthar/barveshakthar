@@ -1,6 +1,6 @@
 <div align="center">
 
-# Barvesh Akthar A
+# BARVESH AKTHAR A
 
 ### AI Engineer | Full Stack Developer | Open Source Contributor
 
@@ -239,7 +239,7 @@ class BarveshAkthar:
 
 ### AI Engineer Intern — ChainSys India Pvt Ltd
 
-**Dec 2025 – May 2025**
+**Dec 2025 – May 2026**
 
 * Developed AI-powered workflow automation solutions using Flowise, LangChain, and Large Language Models (LLMs).
 * Built intelligent AI Agents for document processing, data extraction, and business workflow automation.
