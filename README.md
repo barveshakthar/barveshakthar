@@ -12,8 +12,8 @@ Passionate about AI, backend systems, open source, and building production-ready
 
 <br><br>
 
-<a href="barveshakthar2410@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:barveshakthar2410@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/barveshakthar">
@@ -26,8 +26,8 @@ Passionate about AI, backend systems, open source, and building production-ready
 
 <br><br>
 
-![](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-blue)
-![](https://img.shields.io/badge/Degree-B.E%20Computer%20Science-orange)
+![](https://img.shields.io/badge/📍%20Location-Chennai,%20Tamil%20Nadu,%20India-blue)
+![](https://img.shields.io/badge/🎓%20Degree-B.E%20Computer%20Science-orange)
 
 </div>
 
@@ -94,74 +94,203 @@ class BarveshAkthar:
 
 ---
 
-# Tech Stack
+# Technical Skills
 
-### Languages
+<div align="center">
 
-* Python
-* JavaScript
-* SQL
+## Languages
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,dart" />
+</p>
 
-* React.js
-* HTML
-* CSS
+<br>
 
-### Backend
+## AI / ML / Data Science
 
-* Node.js
-* Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### Cloud
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
+![Flowise](https://img.shields.io/badge/Flowise-00AEEF?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0052CC?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C4B3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B00?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4CAF50?style=for-the-badge)
 
-* AWS
+<br><br>
 
-### AI & ML
+## Web / Backend / Infrastructure
 
-* Flowise
-* LangChain
-* Natural Language Processing
-* TensorFlow
-* PyTorch
-* Scikit-Learn
-* Agentic AI
-* RAG
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,docker,git,postman" />
+</p>
 
----
+<br>
+
+## Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-6366F1?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-FF6B00?style=for-the-badge)
+
+</div>
+
 
 # Featured Projects
 
-### 🤖 Form Auto Fill Engine Agent
+<table>
+<tr>
 
-Developed an AI-powered document processing system that extracts and structures data from invoices, receipts, scanned forms, and other unstructured documents using OCR and LLMs. Built autonomous AI agents with Flowise to automate document uploads, intelligent form auto-filling, schema mapping, data validation, and confidence-based data storage using Node.js and CouchDB.
+<td width="50%" valign="top">
+
+## 🤖 Form Auto Fill Engine Agent
+
+**Tech:** Flowise, Node.js, CouchDB, OCR, LLMs
+
+* Built an AI-powered document processing system for invoices, receipts, and scanned forms.
+* Automated document uploads and intelligent form auto-filling using AI agents.
+* Implemented OCR, schema mapping, validation, and confidence scoring.
+* Developed a scalable backend using Node.js and CouchDB.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗳️ VoteGuard – AI-Powered Biometric Voting System
+
+**Tech:** Python, Blockchain, Solidity, Ethereum, Face Recognition
+
+* Developed a secure biometric voting platform using Face Recognition and Fingerprint Authentication.
+* Prevented duplicate voting through AI-powered identity verification.
+* Integrated Ethereum smart contracts for tamper-proof vote storage.
+* Built an admin dashboard for election monitoring and analytics.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 AI Education Mentor
+
+**Tech:** NLP, Machine Learning, Python
+
+* Developed an AI-powered education mentor to improve student retention.
+* Built predictive analytics models to identify at-risk students.
+* Created an intelligent academic support chatbot using NLP.
+* Implemented behavior analysis and performance tracking.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🥗 NutriScan – The Honest Food Lens
+
+**Tech:** Computer Vision, Google AI Studio, Multimodal AI
+
+* Built an AI-powered food recognition and nutrition analysis platform.
+* Implemented ingredient detection and image-to-text extraction.
+* Generated personalized nutrition recommendations.
+* Added multilingual and accessibility support.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ PromptForge – AI Prompt Optimization Engine
+
+**Tech:** LLMs, Prompt Engineering, Emergent
+
+* Designed an intelligent prompt optimization platform.
+* Converted high-level user ideas into structured prompts.
+* Automated prompt generation and context enrichment.
+* Improved AI response quality and productivity.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☁️ SmartSupport
+
+**Tech:** AWS, Serverless, AI Agents
+
+* Built a real-time serverless live chat support platform.
+* Leveraged AWS services for scalability and reliability.
+* Automated customer interactions using AI-driven workflows.
+* Designed for production-ready enterprise support.
+
+</td>
+
+</tr>
+</table>
+
+# Internship Experience
+
+### AI Engineer Intern — ChainSys India Pvt Ltd
+
+**Dec 2025 – May 2025**
+
+* Developed AI-powered workflow automation solutions using Flowise, LangChain, and Large Language Models (LLMs).
+* Built intelligent AI Agents for document processing, data extraction, and business workflow automation.
+* Designed and integrated scalable backend services using Node.js, JavaScript, and REST APIs.
+* Implemented Retrieval-Augmented Generation (RAG) pipelines to enhance AI response accuracy and contextual understanding.
+* Worked on OCR-based document processing systems and AI-powered form automation solutions.
+* Collaborated with cross-functional teams to deliver production-ready AI applications and workflow automation platforms.
 
 ---
 
-### 🗳️ VoteGuard – AI-Powered Biometric Voting System
+# Certifications
 
-Designed and developed a secure blockchain-enabled biometric voting platform using Face Recognition, Fingerprint Authentication, Ethereum (Sepolia Testnet), and Solidity. Implemented AI-driven identity verification, duplicate vote prevention, smart contract-based vote storage, and an analytics dashboard for transparent and tamper-proof elections.
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-AWS%20Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Computer%20Vision%20%26%20NLP-0A66C2?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wipro-Java%20Full%20Stack-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ThinkQbator-Machine%20Learning%20%26%20Image%20Processing-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Introduction%20to%20Artificial%20Intelligence-007ACC?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Infosys-Computer%20Vision%20101-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Advanced%20UX%20Techniques-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Java%20Programming%20Fundamentals-4CAF50?style=for-the-badge"/>
+
+</p>
 
 ---
-
-### 🎓 AI Education Mentor – Enhancing Student Retention with NLP
-
-Built an AI-powered educational assistant leveraging Natural Language Processing (NLP) and predictive analytics to identify at-risk students, provide personalized learning recommendations, and deliver academic support through an intelligent AI chatbot. Implemented behavior analysis and performance monitoring for proactive intervention strategies.
-
----
-
-### 🥗 NutriScan – The Honest Food Lens
-
-Developed an AI-powered food recognition and nutrition analysis platform using Computer Vision and Google AI Studio. Enabled real-time meal analysis, ingredient detection, nutrition scoring, multilingual support, text-to-speech accessibility, and personalized dietary recommendations through multimodal AI models.
-
----
-
-### ⚡ PromptForge – AI Prompt Optimization Engine
-
-Created an AI-powered prompt engineering platform that transforms high-level user ideas into structured, context-aware prompts for Large Language Models. Leveraged advanced prompt engineering, LLM orchestration, and Emergent to automate prompt generation, improve response quality, and enhance productivity.
-
----
-
 
 <div align="center">
 
