@@ -131,7 +131,7 @@ class BarveshAkthar:
 ## Web / Backend / Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,git,postman" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,aws,git,postman" />
 </p>
 
 <br>
