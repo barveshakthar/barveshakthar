@@ -20,8 +20,8 @@ Passionate about AI, backend systems, open source, and building production-ready
 <img src="https://img.shields.io/badge/GITHUB-barveshakthar-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/barvesh-akthar">
-<img src="https://img.shields.io/badge/LINKEDIN-BARVESHAKTHAR-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/barvesh-akthar">
+<img src="https://img.shields.io/badge/LINKEDIN-BARVESHAKTHAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://barveshakthar24-portfolio.netlify.app/">
