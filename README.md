@@ -24,6 +24,10 @@ Passionate about AI, backend systems, open source, and building production-ready
 <img src="https://img.shields.io/badge/LINKEDIN-BARVESHAKTHAR-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://barveshakthar24-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-BARVESHAKTHAR-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <br><br>
 
 ![](https://img.shields.io/badge/📍%20Location-Chennai,%20Tamil%20Nadu,%20India-blue)
@@ -123,7 +127,7 @@ class BarveshAkthar:
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B00?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_DB_&_Embeddings-4CAF50?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-F2C811?style=for-the-badge)
+![N8N](https://img.shields.io/badge/n8n-F2C811?style=for-the-badge)
 
 
 <br><br>
