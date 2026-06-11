@@ -123,7 +123,7 @@ class BarveshAkthar:
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B00?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_DB_&_Embeddings-4CAF50?style=for-the-badge)
-![N8N](https://img.shields.io/badge/n8n-F2C811?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-F2C811?style=for-the-badge)
 
 
 <br><br>
