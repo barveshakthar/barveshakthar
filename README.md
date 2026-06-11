@@ -4,196 +4,202 @@
 
 ### AI Engineer | Backend Developer | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;AWS+Cloud+Enthusiast;Flowise+Developer;LangChain+Developer;Building+Production+Ready+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;AWS+Cloud+Enthusiast;Flowise+Developer;LangChain+Developer;Building+Production+Ready+Applications" />
+
+<br>
+
+Passionate about AI, backend systems, open source, and building production-ready intelligent applications.
+
+<br><br>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/barveshakthar">
+<img src="https://img.shields.io/badge/GITHUB-barveshakthar-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-BARVESHAKTHAR-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/your-profile">
+<img src="https://img.shields.io/badge/LEETCODE-750%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<br><br>
+
+![](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-blue)
+![](https://img.shields.io/badge/Degree-B.E%20Computer%20Science-orange)
+![](https://img.shields.io/badge/Open%20Source-Contributor-success)
+![](https://img.shields.io/badge/AWS-Cloud-yellow)
+![](https://img.shields.io/badge/Flowise-AI%20Automation-blueviolet)
+![](https://img.shields.io/badge/LangChain-RAG-green)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# About Me
 
 ```python
 class BarveshAkthar:
 
     def __init__(self):
-        self.role = "AI Engineer & Backend Developer"
-        self.education = "B.E Computer Science Engineering"
-        self.location = "Tamil Nadu, India"
 
-        self.current_focus = [
+        self.role = "AI Engineer"
+
+        self.education = (
+            "B.E Computer Science Engineering"
+        )
+
+        self.company_experience = (
+            "AI Engineer Intern @ ChainSys"
+        )
+
+        self.location = (
+            "Tamil Nadu, India"
+        )
+
+        self.interests = [
             "AI Agents",
-            "RAG Applications",
+            "Agentic AI",
+            "RAG Systems",
+            "Backend Development",
+            "AWS Cloud",
             "Workflow Automation",
-            "Backend Systems",
-            "AWS Cloud"
+            "Open Source"
         ]
 
-        self.tech_stack = [
+        self.languages = [
             "Python",
             "JavaScript",
-            "Node.js",
+            "SQL"
+        ]
+
+        self.frameworks = [
             "React.js",
-            "SQL",
-            "AWS",
+            "Node.js",
+            "Express.js",
+            "Django"
+        ]
+
+        self.ai_stack = [
             "Flowise",
             "LangChain",
             "TensorFlow",
-            "PyTorch"
+            "PyTorch",
+            "Scikit-Learn"
         ]
 
-    def say_hi(self):
-        print("Welcome to my GitHub Profile!")
+    def goal(self):
+        return (
+            "Build intelligent applications "
+            "that solve real-world problems"
+        )
 ```
 
 ---
 
-## 💫 About Me
+# Tech Stack
 
-🎓 Computer Science Engineering Graduate
+### Languages
 
-💼 Former AI Engineer Intern at ChainSys India Pvt Ltd
-
-🤖 Passionate about AI Agents, RAG Systems and Workflow Automation
-
-☁️ Experienced in AWS Cloud Services
-
-⚡ Building scalable backend systems and intelligent applications
-
-🌱 Currently learning Advanced Agentic AI and Multi-Agent Architectures
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/barveshakthar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+* Python
+* JavaScript
+* SQL
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+* React.js
+* HTML
+* CSS
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+* Node.js
+* Express.js
+* Django
 
-### Cloud & DevOps
+### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+* AWS
 
-### AI & Machine Learning
+### AI & ML
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Flowise](https://img.shields.io/badge/Flowise-00AEEF?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barveshakthar&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveshakthar&layout=compact&theme=tokyonight"/>
-
-</p>
+* Flowise
+* LangChain
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* Agentic AI
+* RAG
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barveshakthar&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=barveshakthar&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
+# Featured Projects
 
 ### 🤖 AI Projects
 
-🔹 SmartSupport – Real-Time Serverless Live Chat Support System on AWS
+#### SmartSupport
 
-🔹 AI Agents using Flowise & LangChain
+Real-time Serverless Live Chat Support System built on AWS.
 
-🔹 Retrieval Augmented Generation (RAG) Applications
+#### AI Agents & Workflow Automation
 
-🔹 Workflow Automation Systems
+Multi-agent systems using Flowise and LangChain.
+
+#### RAG Applications
+
+Context-aware AI applications using Retrieval-Augmented Generation.
 
 ---
 
 ### 🌐 Full Stack Projects
 
-🔹 Money Matters – Expense Tracking & Investment Suggestion Application
+#### Money Matters
 
-🔹 Booking Review System using Django
+Expense Tracking and Investment Recommendation Application.
 
-🔹 Face Recognition Voting System
+#### Booking Review System
 
-🔹 AWS S3 Website Hosting Project
+Full Stack Django Project.
 
----
+#### Face Recognition Voting System
 
-## 📈 Activity Graph
+Secure voting platform using face recognition.
 
-<p align="center">
+#### AWS S3 Website Hosting
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barveshakthar&theme=tokyo-night"/>
-
-</p>
+Static website deployment using Amazon S3.
 
 ---
 
-## 👀 Profile Views
+# GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=barveshakthar&color=blue&style=for-the-badge"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=barveshakthar&show_icons=true&theme=tokyonight"/>
 
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveshakthar&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building AI-Powered Solutions That Create Real Impact"
+### Profile Views
+
+![](https://komarev.com/ghpvc/?username=barveshakthar\&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building AI-Powered Solutions That Create Real Impact"
 
 </div>
