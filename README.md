@@ -13,7 +13,7 @@ Passionate about AI, backend systems, open source, and building production-ready
 <br><br>
 
 <a href="mailto:barveshakthar2410@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-BARVESHAKTHAR2410%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/barveshakthar">
@@ -122,14 +122,14 @@ class BarveshAkthar:
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C4B3?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B00?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_DB-4CAF50?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB_&_Embeddings-4CAF50?style=for-the-badge)
 
 <br><br>
 
 ## Web / Backend / Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,docker,git,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,git,postman" />
 </p>
 
 <br>
@@ -137,14 +137,13 @@ class BarveshAkthar:
 ## Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,sql,CouchDB" />
 </p>
 
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-6366F1?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-FF6B00?style=for-the-badge)
 
 </div>
 
@@ -224,19 +223,6 @@ class BarveshAkthar:
 * Converted high-level user ideas into structured prompts.
 * Automated prompt generation and context enrichment.
 * Improved AI response quality and productivity.
-
-</td>
-
-<td width="50%" valign="top">
-
-## ☁️ SmartSupport
-
-**Tech:** AWS, Serverless, AI Agents
-
-* Built a real-time serverless live chat support platform.
-* Leveraged AWS services for scalability and reliability.
-* Automated customer interactions using AI-driven workflows.
-* Designed for production-ready enterprise support.
 
 </td>
 
