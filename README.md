@@ -1,8 +1,8 @@
 <div align="center">
 
-# Barvesh Akthar
+# Barvesh Akthar A
 
-### AI Engineer | Backend Developer | Open Source Contributor
+### AI Engineer | Full Stack Developer | Open Source Contributor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;AWS+Cloud+Enthusiast;Flowise+Developer;LangChain+Developer;Building+Production+Ready+Applications" />
 
@@ -12,7 +12,7 @@ Passionate about AI, backend systems, open source, and building production-ready
 
 <br><br>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="barveshakthar2410@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -20,22 +20,14 @@ Passionate about AI, backend systems, open source, and building production-ready
 <img src="https://img.shields.io/badge/GITHUB-barveshakthar-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/barvesh-akthar?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LINKEDIN-BARVESHAKTHAR-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/your-profile">
-<img src="https://img.shields.io/badge/LEETCODE-750%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <br><br>
 
 ![](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-blue)
 ![](https://img.shields.io/badge/Degree-B.E%20Computer%20Science-orange)
-![](https://img.shields.io/badge/Open%20Source-Contributor-success)
-![](https://img.shields.io/badge/AWS-Cloud-yellow)
-![](https://img.shields.io/badge/Flowise-AI%20Automation-blueviolet)
-![](https://img.shields.io/badge/LangChain-RAG-green)
 
 </div>
 
@@ -48,7 +40,7 @@ class BarveshAkthar:
 
     def __init__(self):
 
-        self.role = "AI Engineer"
+        self.role = "AI Engineer | Full Stack Developer"
 
         self.education = (
             "B.E Computer Science Engineering"
@@ -59,17 +51,17 @@ class BarveshAkthar:
         )
 
         self.location = (
-            "Tamil Nadu, India"
+            "Chennai,Tamil Nadu, India"
         )
 
         self.interests = [
             "AI Agents",
             "Agentic AI",
             "RAG Systems",
-            "Backend Development",
+            "Full Stack Development",
             "AWS Cloud",
             "Workflow Automation",
-            "Open Source"
+            "Open Source Contributions"
         ]
 
         self.languages = [
@@ -82,12 +74,12 @@ class BarveshAkthar:
             "React.js",
             "Node.js",
             "Express.js",
-            "Django"
         ]
 
         self.ai_stack = [
             "Flowise",
             "LangChain",
+            "Natural Language Processing",
             "TensorFlow",
             "PyTorch",
             "Scikit-Learn"
@@ -120,7 +112,6 @@ class BarveshAkthar:
 
 * Node.js
 * Express.js
-* Django
 
 ### Cloud
 
@@ -130,6 +121,7 @@ class BarveshAkthar:
 
 * Flowise
 * LangChain
+* Natural Language Processing
 * TensorFlow
 * PyTorch
 * Scikit-Learn
@@ -140,63 +132,36 @@ class BarveshAkthar:
 
 # Featured Projects
 
-### 🤖 AI Projects
+### 🤖 Form Auto Fill Engine Agent
 
-#### SmartSupport
-
-Real-time Serverless Live Chat Support System built on AWS.
-
-#### AI Agents & Workflow Automation
-
-Multi-agent systems using Flowise and LangChain.
-
-#### RAG Applications
-
-Context-aware AI applications using Retrieval-Augmented Generation.
+Developed an AI-powered document processing system that extracts and structures data from invoices, receipts, scanned forms, and other unstructured documents using OCR and LLMs. Built autonomous AI agents with Flowise to automate document uploads, intelligent form auto-filling, schema mapping, data validation, and confidence-based data storage using Node.js and CouchDB.
 
 ---
 
-### 🌐 Full Stack Projects
+### 🗳️ VoteGuard – AI-Powered Biometric Voting System
 
-#### Money Matters
-
-Expense Tracking and Investment Recommendation Application.
-
-#### Booking Review System
-
-Full Stack Django Project.
-
-#### Face Recognition Voting System
-
-Secure voting platform using face recognition.
-
-#### AWS S3 Website Hosting
-
-Static website deployment using Amazon S3.
+Designed and developed a secure blockchain-enabled biometric voting platform using Face Recognition, Fingerprint Authentication, Ethereum (Sepolia Testnet), and Solidity. Implemented AI-driven identity verification, duplicate vote prevention, smart contract-based vote storage, and an analytics dashboard for transparent and tamper-proof elections.
 
 ---
 
-# GitHub Statistics
+### 🎓 AI Education Mentor – Enhancing Student Retention with NLP
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=barveshakthar&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barveshakthar&layout=compact&theme=tokyonight"/>
-
-</div>
+Built an AI-powered educational assistant leveraging Natural Language Processing (NLP) and predictive analytics to identify at-risk students, provide personalized learning recommendations, and deliver academic support through an intelligent AI chatbot. Implemented behavior analysis and performance monitoring for proactive intervention strategies.
 
 ---
 
-<div align="center">
+### 🥗 NutriScan – The Honest Food Lens
 
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=barveshakthar\&style=for-the-badge)
-
-</div>
+Developed an AI-powered food recognition and nutrition analysis platform using Computer Vision and Google AI Studio. Enabled real-time meal analysis, ingredient detection, nutrition scoring, multilingual support, text-to-speech accessibility, and personalized dietary recommendations through multimodal AI models.
 
 ---
+
+### ⚡ PromptForge – AI Prompt Optimization Engine
+
+Created an AI-powered prompt engineering platform that transforms high-level user ideas into structured, context-aware prompts for Large Language Models. Leveraged advanced prompt engineering, LLM orchestration, and Emergent to automate prompt generation, improve response quality, and enhance productivity.
+
+---
+
 
 <div align="center">
 
