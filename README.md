@@ -2,7 +2,7 @@
 
 # BARVESH AKTHAR A
 
-### AI Engineer | Full Stack Developer | Open Source Contributor
+### AI Engineer | Full Stack Developer | Cloud Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;AWS+Cloud+Enthusiast;Flowise+Agent+Builder;Building+Production+Ready+Applications" />
 
