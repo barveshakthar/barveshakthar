@@ -44,7 +44,7 @@ class BarveshAkthar:
 
     def __init__(self):
 
-        self.role = "AI Engineer | Full Stack Developer"
+        self.role = "AI Engineer | Full Stack Developer | Cloud Enthusiast"
 
         self.education = (
             "B.E Computer Science Engineering"
