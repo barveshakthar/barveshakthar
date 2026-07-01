@@ -30,7 +30,7 @@ Passionate about AI, backend systems, open source, and building production-ready
 
 <br><br>
 
-![](https://img.shields.io/badge/📍%20Location-Chennai,%20Tamil%20Nadu,%20India-blue)
+![](https://img.shields.io/badge/📍%20Location-Madurai,%20Tamil%20Nadu,%20India-blue)
 ![](https://img.shields.io/badge/🎓%20Degree-B.E%20Computer%20Science-orange)
 
 </div>
